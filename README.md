@@ -3,7 +3,7 @@
 
 Welcome to the **ZDT DevOps Community**!
 
-🚀 **Simplifying Kubernetes** | **Build • Deploy • Monitor**
+🚀 **Simplifying Kubernetes** | **Build • Deploy • Monitor • Admin • Replicate**
 
 **ZDT DevOps Platform** is your all-in-one solution for seamless API deployment, observability, and automation.
 
